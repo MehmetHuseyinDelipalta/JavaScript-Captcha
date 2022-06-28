@@ -1,3 +1,4 @@
+//Mehmet Hüseyin Delipalta
 onload = createCaptcha();
 function createCaptcha() {
   //boş div oluşturuyoruz
