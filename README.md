@@ -1,2 +1,2 @@
 # JavaScript-Captcha
-Javascript ile yazılımış görsel destekli captcha uygulamasıdır.
+JavaScript ile yazılmış görsel destekli captcha uygulamasıdır.
